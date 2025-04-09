@@ -1,3 +1,15 @@
 .modal {
     background: #c6d0ff7a;
 }
+
+.valid-icon {
+    position: absolute;
+    right: 10px;
+    top: 36px;
+    font-size: 1.2rem;
+    color: green;
+}
+  
+.d-none {
+    display: none;
+}
